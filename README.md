@@ -8,4 +8,4 @@
 - [x] Remover formulário do HTML e não mostrar barra de rolagem enquanto o formulário está saindo da tela. 
 - [x] Adicionar um efeito diferente de timing para a saida do formulário. 
 - [x] Fazer o formulário dizer não-não (vibrar) caso haja campos vazios. 
--[ ] Criar alguns quadrados animados (que fiquem girando) e que saem de baixo da tela (fora do campo de visão) e vão para cima da tela (que saia do campo também). _Detalhes_: Deve ter tamanhos diferentes, saindo em momentos diferentes, terem timing diferentes e animação contínua. 
+-[x] Criar alguns quadrados animados (que fiquem girando) e que saem de baixo da tela (fora do campo de visão) e vão para cima da tela (que saia do campo também). _Detalhes_: Deve ter tamanhos diferentes, saindo em momentos diferentes, terem timing diferentes e animação contínua. 
